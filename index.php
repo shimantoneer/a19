@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.thesaurus.com/browse/divorce");
+header("Location: https://www.californiak12.org/");
 die();
 ?>
